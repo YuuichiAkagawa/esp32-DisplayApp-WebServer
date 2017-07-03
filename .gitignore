@@ -1,0 +1,4 @@
+build/
+binaries/
+sdkconfig.old
+*.BAK
